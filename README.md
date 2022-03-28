@@ -1,1 +1,2 @@
-Date difference in Days, Months and Years using Javascript, Html and Css
+Date difference in Days, Months and Years 
+Technologies used: Javascript, Html and Css
